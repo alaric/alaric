@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+```Opinions expressed are solely my own and do not express the views or opinions of my employer.```
 
 <!--
 **alaric/alaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
