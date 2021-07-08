@@ -1,6 +1,10 @@
 ### Hi 👋
 
-```Opinions expressed are solely my own and do not express the views or opinions of my employer.```
+```
+Opinions expressed are solely my own and do not express the views or opinions of my employer.
+
+I do Rust projects for fun, and lead software development teams working on distributed systems in C++ for work.
+```
 
 <!--
 **alaric/alaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
